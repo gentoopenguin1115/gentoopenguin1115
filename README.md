@@ -1,4 +1,12 @@
-### Hi there 👋
+### I'm keiko
+I'm a penguin lover
+usually use python to make model of deeplearning especially for pytorch 
+but wanna try the others like C,C++
+
+
+<!-- mark down is as same as HTML -->
+
+
 
 <!--
 **gentoopenguin1115/gentoopenguin1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
