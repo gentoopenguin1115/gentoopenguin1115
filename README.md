@@ -1,6 +1,6 @@
 ### I'm keiko
-I'm a penguin lover
-usually use python to make model of deeplearning especially for pytorch 
+I'm a penguin lover\
+usually use python to make model of deeplearning especially for pytorch\
 but wanna try the others like C,C++
 
 
