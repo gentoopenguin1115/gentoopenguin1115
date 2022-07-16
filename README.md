@@ -1,7 +1,8 @@
 ### I'm keiko
 I'm a penguin lover\
 usually use python to make model of deeplearning especially using pytorch\
-but wanna try the others like C,C++
+
+now learning R
 
 
 <!-- mark down is as same as HTML -->
